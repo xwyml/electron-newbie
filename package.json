@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/xwyml/electron-newbie/issues"
   },
-  "homepage": "https://github.com/xwyml/electron-newbie#readme"
+  "homepage": "https://github.com/xwyml/electron-newbie#readme",
+  "devDependencies": {
+    "electron": "^4.0.1"
+  }
 }
